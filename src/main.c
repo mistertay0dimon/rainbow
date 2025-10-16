@@ -14,5 +14,7 @@ int main() {
     DrawPixelInConsole(3, 252, 236);
     DrawPixelInConsole(0, 0, 255);
     DrawPixelInConsole(244, 3, 252);
+    getchar();
     return 0;
 }
+
